@@ -1,7 +1,7 @@
 ### <div align="center"> 👋 Hello, I'm Vivek Gupta
 
 🎓 Aspiring Data Scientist | 💻 Machine Learning Enthusiast | 🌐 Web Developer  
-📍 Mumbai, India | 📧 vivekgupta@example.com  
+📍 Mumbai, India | 📧 vivekg1525@gmail.com  
 🌐 [Portfolio](https://portfolio-vivek-gupta-s-projects.vercel.app/)</div>  
   
 
